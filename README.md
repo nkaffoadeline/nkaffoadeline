@@ -1,18 +1,33 @@
-# 🎓 School Management System
+# 👋 Bonjour, moi c'est Adeline Matho
 
-## 📌 Description
-Application web de gestion scolaire permettant de gérer les étudiants, enseignants et cours.
+💻 Développeuse Fullstack | Data Analyst  
+📍 Douala, Cameroun  
 
-## 🚀 Technologies
-- Angular
-- Express.js
-- MongoDB
+---
 
-## 🎯 Fonctionnalités
-- Gestion des étudiants
-- Gestion des enseignants
-- Gestion des cours
+## 🚀 À propos de moi
+Développeuse passionnée par la conception de systèmes d’information et l’analyse de données.  
+J’utilise Angular, Laravel et Express.js pour développer des applications web modernes.
 
-## ▶️ Lancer le projet
-npm install  
-npm start
+---
+
+## 🛠️ Compétences
+- Frontend : Angular
+- Backend : Laravel, Express.js
+- Base de données : MongoDB, MySQL
+- Data : Power BI, Excel
+- Outils : Docker, Git
+
+---
+
+## 📌 Projets principaux
+🎓 School Management System  
+Application web pour gérer étudiants, enseignants et cours.
+
+Technologies :
+Angular | Express.js | MongoDB ...
+
+---
+
+## 📫 Contact
+Email : adelinematho0@gmail.com
