@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🎓 School Management System
 
-<!--
-**nkaffoadeline/nkaffoadeline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Description
+Application web de gestion scolaire permettant de gérer les étudiants, enseignants et cours.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
+- Angular
+- Express.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Fonctionnalités
+- Gestion des étudiants
+- Gestion des enseignants
+- Gestion des cours
+
+## ▶️ Lancer le projet
+npm install  
+npm start
