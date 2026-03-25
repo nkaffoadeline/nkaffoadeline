@@ -17,6 +17,7 @@ J’utilise Angular, Laravel et Express.js pour développer des applications web
 - Base de données : MongoDB, MySQL
 - Data : Power BI, Excel
 - Outils : Docker, Git
+- Gestion de projet: Jira, Trello
 
 ---
 
